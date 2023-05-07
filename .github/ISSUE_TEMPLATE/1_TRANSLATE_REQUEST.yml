@@ -49,7 +49,6 @@ body:
       예시)
       'ㅇㅇㅇㅇ에서는 ㄱㄴㄷㄹ 대신 ㅁㅂㅅㅇ 사용을 권장하고 있습니다.
       이 내용은 https://tutorials.pytorch.kr/beginner/basics/intro.html 에서 확인할 수 있습니다.'
-    tip: |
       이미지 파일 또는 로그 파일 등을 끌어다 놓거나 붙여넣기하여 업로드/첨부할 수 있습니다.
   validations:
     required: false
